@@ -46,7 +46,7 @@
 
    
 Desde que comecei na Faculdade sempre Gostei de  Compartilhar aquilo que estava Estudando.  
-Com isso, recentemente entrei para a comunidade <a href="https://gdgjf.github.io/">GDG Juiz de Fora</a> e ser Embaixador na minha Faculdade.
+Com isso, recentemente entrei para a comunidade <a href="https://gdgjf.github.io/">GDG Juiz de Fora</a> e passei a ser Embaixador na minha Faculdade.
 
 
 
@@ -74,6 +74,4 @@ Com isso, recentemente entrei para a comunidade <a href="https://gdgjf.github.io
     <span></span>
     <span></span>
 </div>
-
-
 
