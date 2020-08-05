@@ -37,9 +37,10 @@
         <li>Gosto de ver conteúdos no Youtube e no Instagram de devs e de designer mais experientes afim de pegar referênci e sempre estar conectado com novas tecnologias do mercado.</li>
     </ul>
     <h4> 🚀 Community </h4>
-    Desde que comecei na Faculdade sempre Gostei de Compartilhar aquilo que estava Estudando.  
+    <p>Desde que comecei na Faculdade sempre Gostei de Compartilhar aquilo que estava Estudando.  
     Com isso, recentemente entrei para a comunidade <a href="https://gdgjf.github.io/">GDG Juiz de Fora</a> e passei a ser Embaixador na minha Faculdade.
-    <br>
+    </p>
+    <br/>
     <div align="center">
         <span>
             <a href="https://www.linkedin.com/in/josias-salermo/" target="_blank">
