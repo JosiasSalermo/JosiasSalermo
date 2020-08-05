@@ -47,17 +47,17 @@
 
 <div align="center">
     <span>
-        <a href="https://www.linkedin.com/in/josias-salermo/">
+        <a href="https://www.linkedin.com/in/josias-salermo/" target="_blank">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width=20>            
         </a>
     </span>
     <span>
-        <a href="https://instagram.com/josias.salermo">
+        <a href="https://instagram.com/josias.salermo" target="_blank">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width=20>
         </a>
     </span>
     <span>
-        <a href="https://www.behance.net/josias_salermo">
+        <a href="https://www.behance.net/josias_salermo" target="_blank">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" width=20>
         </a>
     </span>
@@ -66,7 +66,6 @@
     <span></span>
     <span></span>
 </div>
-
 
 
 
