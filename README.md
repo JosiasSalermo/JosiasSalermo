@@ -29,12 +29,9 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
         alt="figma" width="20" height="20"/>
     </span>
-   
-  
-
-    
- 
 </div>
+
+<br>
 
  <ul>
     <li>Ainda estou no 3º Período da Facul de Sistemas de Informação</li>
@@ -42,8 +39,19 @@
     <li>Também posso te ajudar com Javascript</li>
     <li>Com Relação ao CSS, sei Grid Layout e Flexbox</li>
     <li>Mas antes mesmo de programar, precisamos prototipar, então estou aprendendo UX</li>
-    <li>Gosto de ver conteúdos no Youtube e no insta de devs e de designer mais experientes afim de pegar referência e sempre estar conectado com novas tecnologias do mercado.</li>
+    <li>Gosto de ver conteúdos no Youtube e no Instagram de devs e de designer mais experientes afim de pegar referência e sempre estar conectado com novas tecnologias do mercado.</li>
  </ul>
+
+<h4> 🚀 Community </h4>
+
+   
+Desde que comecei na Faculdade sempre Gostei de  Compartilhar aquilo que estava Estudando.  
+Com isso, recentemente entrei para a comunidade <a href="https://gdgjf.github.io/">GDG Juiz de Fora</a> e ser Embaixador na minha Faculdade.
+
+
+
+  
+<br>
 
 <div align="center">
     <span>
@@ -66,7 +74,6 @@
     <span></span>
     <span></span>
 </div>
-
 
 
 
