@@ -1,4 +1,4 @@
-<div style="background-color: #9da5b4;">
+<div style="background-color:#9da5b4;">
     <h1 align = "center"> Olá, sou Josias Salermo </h1>
     <h3 align = "center"> Estou aprendendo UX/UI Designer e Front-End </h3>
     <div>
