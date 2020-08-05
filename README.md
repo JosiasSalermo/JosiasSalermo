@@ -1,5 +1,4 @@
 
-
 <h1 align = "center"> Olá, sou Josias Salermo </h1>
 <h3 align = "center"> Estou aprendendo UX/UI Designer e Front-End </h3>
 
@@ -20,13 +19,15 @@
     </span>
     <span>
         <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-        alt="javascript"width="20" height="20"/>
+        alt="javascript" width="20" height="20"/>
     </span>
      <span>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+        alt="git" width="20" height="20"/>
     </span>
     <span>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+        alt="figma" width="20" height="20"/>
     </span>
    
   
@@ -65,6 +66,7 @@
     <span></span>
     <span></span>
 </div>
+
 
 
 
