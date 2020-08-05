@@ -29,6 +29,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
     </span>
    
+  
 
     
  
@@ -37,10 +38,10 @@
  <ul>
     <li>Ainda estou no 3º Período da Facul de Sistemas de Informação</li>
     <li>Mas eu posso te ajudar com a Linguagem C</li>
-    <li>Também posso te ajudar com a Linguagem Javascript</li>
-    <li>Com Relação ao CSS, Grid Layout e Flexbox</li>
-    <li>Mas antes mesmo de programar, precisa prototipar, então estou aprendendo UX</li>
-    <li>Gosto de ver conteúdo no Youtube e no insta de devs e designer mais experientes</li>
+    <li>Também posso te ajudar com Javascript</li>
+    <li>Com Relação ao CSS, sei Grid Layout e Flexbox</li>
+    <li>Mas antes mesmo de programar, precisamos prototipar, então estou aprendendo UX</li>
+    <li>Gosto de ver conteúdos no Youtube e no insta de devs e de designer mais experientes afim de pegar referência e sempre estar conectado com novas tecnologias do mercado.</li>
  </ul>
 
 <div align="center">
@@ -64,5 +65,7 @@
     <span></span>
     <span></span>
 </div>
+
+
 
 
