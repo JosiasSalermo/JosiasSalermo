@@ -38,6 +38,7 @@
 <ul>
     <li>Estou no 5º Período da Faculdade de Sistemas de Informação</li>
     <li>Eu posso te ajudar com a Linguagem C</li>
+    <li>Posso te ajudar com Java</li>
     <li>Também posso te ajudar com Javascript</li>
     <li>Com Relação ao CSS, sei Grid Layout e Flexbox</li>
     <li>Mas antes mesmo de programar, precisamos prototipar, então estou aprendendo UX/UI</li>
